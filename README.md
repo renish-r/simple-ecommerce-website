@@ -42,14 +42,4 @@ It is a static site hosted via **GitHub Pages**.
 
 - **HTML5 & CSS3**  
 - **JavaScript** (vanilla or libraries)  
-- **GitHub Pages** for hosting  
-
----
-
-## ⚙️ Setup / Installation
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/renish-r/Simple_E-Commerce_Website.git
+- **GitHub Pages** for hosting
