@@ -79,7 +79,7 @@ const AboutMe = () => {
                 GitHub
               </a>
               <a href="https://www.devrenish.com/" target="_blank" rel="noopener noreferrer">
-                Portfolio (Building)
+                Portfolio
               </a>
             </div>
           </div>
