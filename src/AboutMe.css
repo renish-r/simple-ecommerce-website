@@ -4,12 +4,8 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  background: linear-gradient(
-      to right,
-      rgba(58, 123, 213, 0.85),
-      rgba(0, 210, 255, 0.85)
-    ),
-    url("/simple-ecommerce-website/Images/aboutme.jpg") center/cover no-repeat;
+  text-align: center;
+  position: relative;
   text-align: center;
   position: relative; /* Needed for return button positioning */
 }

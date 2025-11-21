@@ -55,7 +55,9 @@ function Register() {
   }
 
   return (
-    <div className="register-page">
+    <div className="register-page" style={{
+      backgroundImage: `url(${process.env.PUBLIC_URL}/Images/Register.jpg)`
+    }}>
       <div className="register-box">
         <h1>Register</h1>
         <form onSubmit={handleSubmit} noValidate>

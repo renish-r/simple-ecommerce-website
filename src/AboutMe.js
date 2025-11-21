@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import "./AboutMe.css";
 
 const profilePic = process.env.PUBLIC_URL + "/Images/profile.jpg";
 const aboutBg = process.env.PUBLIC_URL + "/Images/aboutme.jpg";
-import { useNavigate } from "react-router-dom";
 
 const AboutMe = () => {
   const [sectionHeight, setSectionHeight] = useState(window.innerHeight);

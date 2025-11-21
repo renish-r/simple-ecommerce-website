@@ -2,7 +2,7 @@
 .login-page {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url("/simple-ecommerce-website/Images/login.jpeg");
+  /* Background set via inline style in component */
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;

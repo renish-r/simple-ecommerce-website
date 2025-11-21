@@ -19,7 +19,9 @@ function Card() {
   };
 
   return (
-    <div className="card-page">
+    <div className="card-page" style={{
+      backgroundImage: `url(${process.env.PUBLIC_URL}/Images/products.jpg)`
+    }}>
       <Nav />
       <div className="container mt-5 pt-5">
         <div className="row">

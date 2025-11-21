@@ -1,6 +1,5 @@
 /* Card page background with image */
 .card-page {
-  background: url("./Images/products.jpg") no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
   padding-bottom: 40px;

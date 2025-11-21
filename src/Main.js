@@ -4,7 +4,9 @@ import "./Main.css";
 
 function Main() {
   return (
-    <div className="main-page">
+    <div className="main-page" style={{
+      backgroundImage: `url(${process.env.PUBLIC_URL}/Images/Home.jpg)`
+    }}>
       <Nav />
       <div className="main-content">
         <h1>Welcome to Shopy 🎉</h1>

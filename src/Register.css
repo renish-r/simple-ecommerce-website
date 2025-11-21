@@ -1,6 +1,5 @@
 /* Fullscreen background applied to wrapper div */
 .register-page {
-  background-image: url("Images/Register.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
