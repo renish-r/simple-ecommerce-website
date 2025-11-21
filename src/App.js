@@ -1,4 +1,3 @@
-import logo from './logo.png';
 import './App.css';
 import './wgrid';
 import { HashRouter, Routes, Route } from 'react-router-dom';
