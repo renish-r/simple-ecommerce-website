@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./AboutMe.css";
-import profilePic from "./Images/profile.jpg";
-import aboutBg from "./Images/aboutme.jpg";
+
+const profilePic = process.env.PUBLIC_URL + "/Images/profile.jpg";
+const aboutBg = process.env.PUBLIC_URL + "/Images/aboutme.jpg";
 import { useNavigate } from "react-router-dom";
 
 const AboutMe = () => {

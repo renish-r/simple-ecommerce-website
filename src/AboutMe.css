@@ -9,7 +9,7 @@
       rgba(58, 123, 213, 0.85),
       rgba(0, 210, 255, 0.85)
     ),
-    url("./Images/aboutme.jpg") center/cover no-repeat;
+    url("/simple-ecommerce-website/Images/aboutme.jpg") center/cover no-repeat;
   text-align: center;
   position: relative; /* Needed for return button positioning */
 }
