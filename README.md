@@ -4,7 +4,11 @@ A simple e-commerce front-end built as a static website hosted on **GitHub Pages
 
 ## 🌐 Live Demo
 
+<<<<<<< HEAD
 [Shopy](https://renish-r.github.io/simple-ecommerce-website) — view the live site. 🚀  
+=======
+[Shopy](https://renish-r.github.io/simple-ecommerce-website/) — view the live site. 🚀  
+>>>>>>> 4caf236d708357db04e4b6d6df0ce81022808b37
 
 ---
 
@@ -42,14 +46,4 @@ It is a static site hosted via **GitHub Pages**.
 
 - **HTML5 & CSS3**  
 - **JavaScript** (vanilla or libraries)  
-- **GitHub Pages** for hosting  
-
----
-
-## ⚙️ Setup / Installation
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/renish-r/Simple_E-Commerce_Website.git
+- **GitHub Pages** for hosting
