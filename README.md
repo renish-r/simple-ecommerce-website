@@ -4,7 +4,7 @@ A simple e-commerce front-end built as a static website hosted on **GitHub Pages
 
 ## 🌐 Live Demo
 
-[Shopy](https://renish-r.github.io/Simple_E-Commerce_Website/) — view the live site. 🚀  
+[Shopy](https://renish-r.github.io/simple-ecommerce-website) — view the live site. 🚀  
 
 ---
 
